@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "NeuroDecodeR"]
 	path = NeuroDecodeR
 	url = https://github.com/emeyers/neurodecoder
-	shallow = true
-	registered = true
